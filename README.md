@@ -432,16 +432,15 @@ HSL es similar al modelo HSV pero refleja mejor la noción intuitiva de la satur
 
 
 ## tutorial de como iluminar un cubo y sus caras, en blender
-# 🟩 1.4 Aplicación práctica: Iluminación de un cubo con modelos de color (RGB) en Blender
+#  1.4 Aplicación práctica: Iluminación de un cubo con modelos de color (RGB) en Blender
 
-## 📌 Introducción
 En este ejercicio se busca representar el modelo de color **RGB** usando un cubo iluminado con luces de colores.
 
 El objetivo es observar cómo los colores **Rojo, Verde y Azul** se combinan para generar nuevos colores, tal como ocurre en pantallas digitales.
 
 ---
 
-## 🎨 1. Colores utilizados
+##  1. Colores utilizados
 
 El cubo se basa en combinaciones de RGB:
 
@@ -541,7 +540,7 @@ Este experimento demuestra el modelo:
 - Más luz = color más claro
 - La suma total produce **blanco**
 
-📌 Es el modelo utilizado en:
+ Es el modelo utilizado en:
 - Pantallas
 - Celulares
 - Televisores
